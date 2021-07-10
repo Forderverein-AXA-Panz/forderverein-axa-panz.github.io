@@ -1,0 +1,23 @@
+baseURL = "http://fvap.de/"
+languageCode = "de-de"
+title = "Förderverein AXA Pänz e.V."
+theme = "ananke"
+
+[params]
+  favicon = ""
+  site_logo = "/images/Logo_AXA_Paenz.jpg"
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-blue"
+  featured_image = "/images/Logo_AXA_Paenz.jpg"
+  recent_posts_number = 2
