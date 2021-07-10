@@ -1,4 +1,4 @@
-baseURL = "https://fvap.de/"
+baseURL = "https://test.fvap.de/"
 languageCode = "de-de"
 title = "Förderverein AXA Pänz e.V."
 theme = "ananke"
