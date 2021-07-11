@@ -1,6 +1,7 @@
 ---
 title: Impressum
-weight: 5
+featured_image: "/images/banner.jpg"
+weight: 100
 type: page
 menu: main
 ---

@@ -1,7 +1,7 @@
 ---
 title: Förderverein
-weight: 1
-#featured_image: "images/notebook.jpg"
+weight: 2
+featured_image: "/images/banner.jpg"
 type: page
 menu: main
 ---
