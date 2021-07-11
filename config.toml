@@ -1,7 +1,8 @@
 baseURL = "https://test.fvap.de/"
-languageCode = "de-de"
+languageCode = "de-DE"
 title = "Förderverein AXA Pänz e.V."
 theme = "ananke"
+sectionPagesMenu = "main"
 
 [params]
   favicon = ""
