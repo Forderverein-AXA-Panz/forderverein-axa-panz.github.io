@@ -5,6 +5,9 @@ title = "Förderverein AXA Pänz e.V."
 theme = "ananke"
 sectionPagesMenu = "main"
 
+[permalinks]
+  neuigkeiten = "/:year/:month/:title/"
+
 [params]
   favicon = ""
   site_logo = "/images/Logo_AXA_Paenz.jpg"
