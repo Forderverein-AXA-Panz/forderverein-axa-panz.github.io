@@ -31,7 +31,7 @@ Vorsitzende: Maja Glück
 
 **Stellvertretender Vorsitzender**: Angie Heeg
 
-Schatzmeister: Tobias Bell
+**Schatzmeister**: Tobias Bell
 
 Schriftführerin: Christin Clodius
 
