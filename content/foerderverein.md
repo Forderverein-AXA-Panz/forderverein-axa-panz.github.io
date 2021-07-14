@@ -27,16 +27,12 @@ Kindersicherheit.
 
 # Der Vorstand
 
-Vorsitzende
-: Maja Glück
+Vorsitzende: Maja Glück
 
-Stellvertretender Vorsitzender
-: Angie Heeg
+**Stellvertretender Vorsitzender**: Angie Heeg
 
-Schatzmeister
-: Tobias Bell
+Schatzmeister: Tobias Bell
 
-Schriftführerin
-: Christin Clodius
+Schriftführerin: Christin Clodius
 
 Kontaktieren Sie uns gerne unter info@FvAP.de!
