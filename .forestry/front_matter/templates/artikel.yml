@@ -1,0 +1,13 @@
+---
+label: Artikel
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: featured_image
+  label: featured_image
+- type: number
+  name: weight
+  label: weight
