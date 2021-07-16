@@ -8,6 +8,22 @@ fields:
 - type: file
   name: featured_image
   label: featured_image
-- type: number
-  name: weight
-  label: weight
+- name: author
+  type: text
+  config:
+    required: false
+  label: Autor
+  description: Name des Artikel Autors
+- name: date
+  type: datetime
+  label: Datum
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
