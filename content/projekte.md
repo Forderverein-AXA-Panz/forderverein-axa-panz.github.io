@@ -1,5 +1,4 @@
 +++
-draft = true
 featured_image = "/images/banner.jpg"
 title = "Projekte"
 type = "page"
