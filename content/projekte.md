@@ -6,33 +6,6 @@ type = "page"
 weight = 2
 
 +++
-# Über den Förderverein
+# Bibliotheksprojekt "Bücher geben Sicherheit!"
 
-Der Förderverein AXA Pänz e.V. wurde am 12.3.2015 von Eltern der AXA Pänz gegründet und die Satzung
-sowie der Mindestmitgliedsbeitrag von 20 € im Jahr beschlossen. Die Eintragung ins Vereinsregister durch
-das Amtsgericht Köln erfolgte am 23. Juni 2015. Der Verein ist als gemeinnützig anerkannt.
-
-AXA Pänz ist die Betriebskindertagesstätte der AXA in Köln-Holweide. Das Schwerpunktthema ist
-Kindersicherheit.
-
-# Ziele des Fördervereins
-
-- Unterstützung der Bildung und Erziehung der AXA Pänz
-- Förderung des Sicherheitsgedankens
-- Finanzielle Unterstützung von Veranstaltungen
-- Beschaffung von zusätzlichen Arbeitsmaterialien oder Spielgeräten für die Kinder
-- Förderung musischer, sportlicher, naturwissenschaftlicher und sprachlicher Angebote
-- Finanzielle Unterstützung bedürftiger Kinder bei der Teilnahme an begleitenden Bildungsangeboten
-- Förderung des Kontakts zwischen AXA Mitarbeitern und AXA Pänz
-
-# Der Vorstand
-
-Vorsitzende: Maja Glück
-
-**Stellvertretender Vorsitzender**: Angie Heeg
-
-**Schatzmeister**: Tobias Bell
-
-Schriftführerin: Christin Clodius
-
-Kontaktieren Sie uns gerne unter info@FvAP.de!
+„Feuer  heiß!“  sagt  die  kleine  Milla  von  den  AXA Pänz.  Milla  guckt  sich  gerade  ein  Bilderbuch  an und weiß schon genau, was da passiert. Kinderbücher  sind  wichtig.  Sie  regen  die Kreativität  und  Phantasie  an,  verbessern  den Wortschatz und die sprachliche Ausdrucksfähigkeit  und  helfen  dem  Kind  beim Kennenlernen der Welt. Die  Bilderbuchhelden  gehen  einkaufen,  zur Feuerwehr  und  auf  den  Spielplatz.  Und  nebenbei bringen  sie  den  kleinen  Lesern  etwas  über Sicherheit  im  Straßenverkehr,  Unfallgefahren, Sozialverhalten und Selbstvertrauen bei. Der  Förderverein  AXA  Pänz  e.V.  möchte  den  AXA  Pänz  die  Möglichkeit  geben,  noch  mehr  zu lernen,  und  damit  zur  Kindersicherheit  beitragen.  Deshalb  unterstützen  wir  die  Kita  AXA Pänz  beim  Aufbau  einer  Bilderbuch-Bibliothek.  Ziel  ist  es,  einen  Bestand  von  ca.  150 Büchern  aufzubauen,  die  sowohl  in  der  Kita  als  auch  ausgeliehen  zu  Hause  gelesen  werden können.  Es  soll  sowohl  die  Kinderbuch-Klassiker  geben,  die  jedes  Kind  kennen  sollte,  als auch  Bücher  zu  bestimmten  Lebensphasen,  z.B.  als  Vorbereitung  auf  ein  Geschwisterkind oder  den  anstehenden  Schulbeginn  mit  Verkehrstipps  für  den  Schulweg.  Die BücherWunschliste  wurde von den Erzieherinnen zusammengestellt. Wir  freuen  uns,  wenn  Sie  unser  Bibliotheksprojekt  unterstützen!  Dazu  gibt  es  verschiedene Möglichkeiten: Sachspenden:  Sie  können  Ihre  vorhandenen  gut  erhaltenen  Kinderbücher  –  sowohl von  der  Wunschliste  als  auch  andere  – nach  vorheriger  Absprache  per  E-Mail  in  der Kita abgeben. Bitte  markieren  Sie  Bücher  von  der  Wunschliste  als  gekauft,  damit diese nicht  doppelt  angeschafft  werden.  Wenn  Sie  eine  Spendenquittung  über  den Gebrauchtbuchpreis  wünschen,  füllen  Sie  bitte  das  Sachspenden-Formular  ( pdf-Datei, Word-Datei)  aus  und  geben  es  in  zweifacher  Ausfertigung  zusammen  mit  den  Büchern ab.  Sie erhalten bei Abgabe eine Spendenquittung. Geldspenden:  Um  fehlende  Bücher  zuzukaufen,  benötigen  wir  Geldspenden (Empfänger:  Förderverein  AXA  Pänz  e.V.,  IBAN:  DE53370694278015982013).  Sie können  Ihre  Spende  allgemein  für  die  Arbeit  des  Fördervereins  oder  zweckgebunden für  ein  bestimmtes  Buch  oder  das  Buchprojekt  „Bücher  geben  Sicherheit!“  anweisen.
