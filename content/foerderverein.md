@@ -9,7 +9,7 @@ menu:
 
 # Über den Förderverein
 
-Der Förderverein AXA Pänz e.V. wurde am 12.3.2015 von Eltern der AXA Pänz gegründet und die Satzung
+Der Förderverein AXA Pänz e.V. wurde am 12.3.2015 von Eltern der AXA Pänz gegründet und die [Satzung](/Satzung_Foerderverein_AXA-Paenz.pdf)
 sowie der Mindestmitgliedsbeitrag von 20 € im Jahr beschlossen. Die Eintragung ins Vereinsregister durch
 das Amtsgericht Köln erfolgte am 23. Juni 2015. Der Verein ist als gemeinnützig anerkannt.
 
@@ -28,12 +28,12 @@ Kindersicherheit.
 
 # Der Vorstand
 
-Vorsitzende: Maja Glück
+**Vorsitzende**: Maja Glück
 
 **Stellvertretender Vorsitzender**: Angie Heeg
 
 **Schatzmeister**: Tobias Bell
 
-Schriftführerin: Christin Clodius
+**Schriftführerin**: Christin Clodius
 
 Kontaktieren Sie uns gerne unter info@FvAP.de!
