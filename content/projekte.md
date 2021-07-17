@@ -7,11 +7,11 @@ weight = "80"
 weight = 3
 
 +++
-
 # Bibliotheksprojekt "Bücher geben Sicherheit!"
 
 „Feuer heiß!“ sagt die kleine Milla von den AXA Pänz. Milla guckt sich gerade ein Bilderbuch an und weiß schon genau, was da passiert.
-{{<figure src="/images/Buecher_geben_Sicherheit.jpg" class="fl w-100">}}
+
+![](/images/Buecher_geben_Sicherheit.jpg)
 
 Kinderbücher sind wichtig. Sie regen die Kreativität und Phantasie an, verbessern den Wortschatz und die sprachliche Ausdrucksfähigkeit und helfen dem Kind beim Kennenlernen der Welt.
 
@@ -21,39 +21,39 @@ Der Förderverein AXA Pänz e.V. möchte den AXA Pänz die Möglichkeit geben, n
 
 Wir freuen uns, wenn Sie unser Bibliotheksprojekt unterstützen! Dazu gibt es verschiedene Möglichkeiten:
 
-- **Sachspenden:** Sie können Ihre vorhandenen gut erhaltenen Kinderbücher – sowohl von der Wunschliste als auch andere – [nach vorheriger Absprache per E-Mail](mailto:axa-paenz@awo-koeln.de) in der Kita abgeben. [Bitte markieren Sie Bücher von der Wunschliste als gekauft, ](http://www.amazon.de/registry/wishlist/2DWWC2XKOBLBU/?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&site-redirect=de&tag=foeaxapaeev0c-21) damit diese nicht doppelt angeschafft werden. Wenn Sie eine Spendenquittung über den Gebrauchtbuchpreis wünschen, füllen Sie bitte das Sachspenden-Formular ([pdf-Datei](/Sachspendenformular_Foerderverein_AXA_Paenz.pdf), [Word-Datei](/Sachspendenformular_Foerderverein_AXA_Paenz.doc)) aus und geben es in zweifacher Ausfertigung zusammen mit den Büchern ab. Sie erhalten bei Abgabe eine Spendenquittung. Geldspenden: Um fehlende Bücher zuzukaufen, benötigen wir
-- **Geldspenden:** (Empfänger: Förderverein AXA Pänz e.V., IBAN: DE53370694278015982013). Sie können Ihre Spende allgemein für die Arbeit des Fördervereins oder zweckgebunden für ein bestimmtes Buch oder das Buchprojekt „Bücher geben Sicherheit!“ anweisen.
+* **Sachspenden:** Sie können Ihre vorhandenen gut erhaltenen Kinderbücher – sowohl von der Wunschliste als auch andere – [nach vorheriger Absprache per E-Mail](mailto:axa-paenz@awo-koeln.de) in der Kita abgeben. [Bitte markieren Sie Bücher von der Wunschliste als gekauft, ](http://www.amazon.de/registry/wishlist/2DWWC2XKOBLBU/?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&site-redirect=de&tag=foeaxapaeev0c-21) damit diese nicht doppelt angeschafft werden. Wenn Sie eine Spendenquittung über den Gebrauchtbuchpreis wünschen, füllen Sie bitte das Sachspenden-Formular ([pdf-Datei](/Sachspendenformular_Foerderverein_AXA_Paenz.pdf), [Word-Datei](/Sachspendenformular_Foerderverein_AXA_Paenz.doc)) aus und geben es in zweifacher Ausfertigung zusammen mit den Büchern ab. Sie erhalten bei Abgabe eine Spendenquittung. Geldspenden: Um fehlende Bücher zuzukaufen, benötigen wir
+* **Geldspenden:** (Empfänger: Förderverein AXA Pänz e.V., IBAN: DE53370694278015982013). Sie können Ihre Spende allgemein für die Arbeit des Fördervereins oder zweckgebunden für ein bestimmtes Buch oder das Buchprojekt „Bücher geben Sicherheit!“ anweisen.
 
 # Bisherige Projekte und Anschaffungen
 
 ## Spielzeug und Bücher
 
-- Über 100 Bücher für die Kita-Bibliothek
-- Vorschulkinder-Lehrbuch „Forschen mit Fred“
-- Duplo
-- Handspielpuppen
-- Holz-Ritterburg
+* Über 100 Bücher für die Kita-Bibliothek
+* Vorschulkinder-Lehrbuch „Forschen mit Fred“
+* Duplo
+* Handspielpuppen
+* Holz-Ritterburg
 
 ## Technik
 
-- Digitale Videokamera mit Stativ
-- Aktivbox mit Stativ
-- Kompaktanlage
-- Mikrofon inkl. Ständer
-- Aufnahmegerät
-- Schallplattenspieler und Schallplatten
+* Digitale Videokamera mit Stativ
+* Aktivbox mit Stativ
+* Kompaktanlage
+* Mikrofon inkl. Ständer
+* Aufnahmegerät
+* Schallplattenspieler und Schallplatten
 
 ## Ausstattung
 
-- Spiegel für Turnhalle und Flur
-- Wet Bags für nasse Kleidung
-- Weihnachtsbäume
-- Bollerwagen
-- Feuerschale
-- Tippi für Kita-Garten
-- Planschbecken
-- Fußballtore
-- Sandspielzeugkiste
-- Erde und Pflanzen
+* Spiegel für Turnhalle und Flur
+* Wet Bags für nasse Kleidung
+* Weihnachtsbäume
+* Bollerwagen
+* Feuerschale
+* Tippi für Kita-Garten
+* Planschbecken
+* Fußballtore
+* Sandspielzeugkiste
+* Erde und Pflanzen
 
 Wenn sie Ideen für weitere Projekte haben, wenden schreiben Sie uns bitte an info@fvap.de
