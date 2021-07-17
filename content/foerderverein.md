@@ -2,12 +2,11 @@
 title: Förderverein
 weight: "2"
 featured_image: "/images/banner.jpg"
-type: page
 menu:
   main:
-    weight: 3
-
+    weight: 20
 ---
+
 # Über den Förderverein
 
 Der Förderverein AXA Pänz e.V. wurde am 12.3.2015 von Eltern der AXA Pänz gegründet und die Satzung
