@@ -3,7 +3,7 @@ draft = true
 featured_image = "/images/banner.jpg"
 title = "Projekte"
 type = "page"
-weight = 2
+weight = "80"
 
 +++
 # Bibliotheksprojekt "Bücher geben Sicherheit!"
