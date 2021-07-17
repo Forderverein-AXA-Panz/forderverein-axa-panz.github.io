@@ -5,8 +5,8 @@ featured_image: "/images/banner.jpg"
 menu:
   main:
     weight: 20
----
 
+---
 # Über den Förderverein
 
 Der Förderverein AXA Pänz e.V. wurde am 12.3.2015 von Eltern der AXA Pänz gegründet und die [Satzung](/Satzung_Foerderverein_AXA-Paenz.pdf)
@@ -18,19 +18,19 @@ Kindersicherheit.
 
 # Ziele des Fördervereins
 
-- Unterstützung der Bildung und Erziehung der AXA Pänz
-- Förderung des Sicherheitsgedankens
-- Finanzielle Unterstützung von Veranstaltungen
-- Beschaffung von zusätzlichen Arbeitsmaterialien oder Spielgeräten für die Kinder
-- Förderung musischer, sportlicher, naturwissenschaftlicher und sprachlicher Angebote
-- Finanzielle Unterstützung bedürftiger Kinder bei der Teilnahme an begleitenden Bildungsangeboten
-- Förderung des Kontakts zwischen AXA Mitarbeitern und AXA Pänz
+* Unterstützung der Bildung und Erziehung der AXA Pänz
+* Förderung des Sicherheitsgedankens
+* Finanzielle Unterstützung von Veranstaltungen
+* Beschaffung von zusätzlichen Arbeitsmaterialien oder Spielgeräten für die Kinder
+* Förderung musischer, sportlicher, naturwissenschaftlicher und sprachlicher Angebote
+* Finanzielle Unterstützung bedürftiger Kinder bei der Teilnahme an begleitenden Bildungsangeboten
+* Förderung des Kontakts zwischen AXA Mitarbeitern und AXA Pänz
 
 # Der Vorstand
 
 **Vorsitzende**: Maja Glück
 
-**Stellvertretender Vorsitzender**: Angie Heeg
+**Stellvertretende Vorsitzende**: Angie Heeg
 
 **Schatzmeister**: Tobias Bell
 
