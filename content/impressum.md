@@ -5,7 +5,7 @@ weight: "100"
 type: page
 menu:
   main:
-    weight: 4
+    weight: 6
 
 ---
 ## Förderverein AXA Pänz e.V.

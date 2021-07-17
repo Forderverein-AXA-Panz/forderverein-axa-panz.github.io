@@ -1,9 +1,13 @@
 ---
-title: "Förderverein AXA Pänz e.V."
+title: Förderverein AXA Pänz e.V.
 featured_image: "/images/banner.jpg"
-description: "Unterstützer der AXA Betriebskindertagesstätte in Köln-Holweide"
----
+description: Unterstützer der AXA Betriebskindertagesstätte in Köln-Holweide
+menu:
+  main:
+    name: Startseite
+    weight: 1
 
+---
 ## Herzlich Willkommen!
 
 Schön, dass Sie sich für den Förderverein AXA Pänz e.V. interessieren!

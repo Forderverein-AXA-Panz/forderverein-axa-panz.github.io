@@ -4,7 +4,7 @@ title = "Projekte"
 type = "page"
 weight = "80"
 [menu.main]
-weight = 3
+weight = 4
 
 +++
 # Bibliotheksprojekt "Bücher geben Sicherheit!"

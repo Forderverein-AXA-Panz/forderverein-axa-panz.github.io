@@ -5,7 +5,7 @@ weight: "2"
 type: page
 menu:
   main:
-    weight: 1
+    weight: 5
 
 ---
 # Warum den Förderverein unterstützen?
