@@ -3,6 +3,8 @@ featured_image = "/images/banner.jpg"
 title = "Projekte"
 type = "page"
 weight = "80"
+[menu.main]
+weight = 3
 
 +++
 # Bibliotheksprojekt "Bücher geben Sicherheit!"

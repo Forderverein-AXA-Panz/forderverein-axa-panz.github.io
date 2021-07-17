@@ -5,7 +5,7 @@ featured_image: "/images/banner.jpg"
 type: page
 menu:
   main:
-    weight: 3
+    weight: 2
 
 ---
 # Über den Förderverein
