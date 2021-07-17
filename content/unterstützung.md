@@ -1,11 +1,13 @@
 ---
-title: "Unterstützung"
+title: Unterstützung
 featured_image: "/images/banner.jpg"
-weight: 2
+weight: "2"
 type: page
-menu: main
----
+menu:
+  main:
+    weight: 1
 
+---
 # Warum den Förderverein unterstützen?
 
 - Unterstützung der Kinder

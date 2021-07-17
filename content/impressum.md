@@ -1,11 +1,13 @@
 ---
 title: Impressum
 featured_image: "/images/banner.jpg"
-weight: 100
+weight: "100"
 type: page
-menu: main
----
+menu:
+  main:
+    weight: 2
 
+---
 ## Förderverein AXA Pänz e.V.
 
 Eintragung im Vereinsregister:
