@@ -1,1 +1,2 @@
 [![github pages](https://github.com/Forderverein-AXA-Panz/forderverein-axa-panz.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/Forderverein-AXA-Panz/forderverein-axa-panz.github.io/actions/workflows/gh-pages.yml)[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Forderverein-AXA-Panz/forderverein-axa-panz.github.io)
+[![Forestry](https://shields.io/badge/Forestry-Seite%20editieren-green?logo=forestry)](https://test.fvap.de/admin)
