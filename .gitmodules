@@ -1,4 +1,3 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
-	url = https://github.com/Forderverein-AXA-Panz/gohugo-theme-ananke.git
-	branch = germanFixes
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
