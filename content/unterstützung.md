@@ -5,21 +5,21 @@ weight: "2"
 menu:
   main:
     weight: 20
----
 
+---
 # Warum den Förderverein unterstützen?
 
-- Unterstützung der Kinder
-- Newsletter für Mitglieder
-- Einladung zu Veranstaltungen
-- Steuerliche Absetzbarkeit von Mitgliedbeiträgen und Spenden
-- Schaffen einer Beziehung zwischen AXA Mitarbeitern und AXA Pänz
+* Unterstützung der Kinder
+* Newsletter für Mitglieder
+* Einladung zu Veranstaltungen
+* Steuerliche Absetzbarkeit von Mitgliedbeiträgen und Spenden
+* Schaffen einer Beziehung zwischen AXA Mitarbeitern und AXA Pänz
 
 # So können Sie uns unterstützen
 
-- [Mitgliedsbeitrag](Beitrittserklaerung_Foerderverein_AXA.pdf) (20 € Mindestbeitrag im Jahr) oder einmalige Spende
-- Teilnahme an unseren Aktionen, Sammlungen und Veranstaltungen
-- Weitere Möglichkeiten, z.B. Online-Shopping oder "Spenden statt Schenken!"
+* [Mitgliedsbeitrag](Beitrittserklaerung_Foerderverein_AXA.pdf) (20 € Mindestbeitrag im Jahr) oder [einmalige Spende](/Beitrittserklaerung_Foerderverein_AXA-Paenz.pdf)
+* Teilnahme an unseren Aktionen, Sammlungen und Veranstaltungen
+* Weitere Möglichkeiten, z.B. Online-Shopping oder "Spenden statt Schenken!"
 
 # Online-Shopping mit Partnerprogrammen
 
@@ -29,13 +29,14 @@ erhält dann eine Provision für Ihre getätigten Einkäufe. Für Sie ist das ei
 Möglichkeit, den Förderverein zu unterstützen.
 
 {{< figure src="//www.schulengel.de/widgets/spendenbanner122x240-8023.png"
-    target="_blank" rel="opener" alt="Affiliate Link zu Schulengel"
-    width=100em
-    link="https://www.schulengel.de/einrichtungen/details/8023-foerderverein-axa-paenz-ev?utm_source=einrichtungsseite&utm_medium=spendenbanner&utm_campaign=spendenbanner122x240"
-    >}}
+target="_blank" rel="opener" alt="Affiliate Link zu Schulengel"
+width=100em
+link="https://www.schulengel.de/einrichtungen/details/8023-foerderverein-axa-paenz-ev?utm_source=einrichtungsseite&utm_medium=spendenbanner&utm_campaign=spendenbanner122x240"
 
-Bei Schulengel sind sehr viele Online-Shops vertreten, auch Anbieter
-von Kinderkleidung und Spielzeug, z.B. ebay, myToys, JAKO-O oder
+> }}
+
+Bei [Schulengel](https://www.schulengel.de/einrichtungen/details/8023-foerderverein-axa-paenz-ev?utm_source=einrichtungsseite&utm_medium=spendenbanner&utm_campaign=spendenbanner122x240) sind sehr viele Online-Shops vertreten, auch Anbieter
+von Kinderkleidung und Spielzeug, z.B. [ebay](https://www.schulengel.de/shoppen/shop-info/2-ebay), [myToys](https://www.schulengel.de/shoppen/shop-info/16-mytoysde), [JAKO-O](https://www.schulengel.de/shoppen/shop-info/25-jako-o) oder
 Ernsting’s family.
 Damit Sie keinen Partnershop „verpassen“, können Sie sich den ShopEngel einen virtuellen Erinnerungs-Sticker, installieren, der Sie an den
 Umweg über Schulengel erinnert.
