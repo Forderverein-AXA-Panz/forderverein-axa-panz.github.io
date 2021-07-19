@@ -31,9 +31,7 @@ Möglichkeit, den Förderverein zu unterstützen.
 {{< figure src="//www.schulengel.de/widgets/spendenbanner122x240-8023.png"
 target="_blank" rel="opener" alt="Affiliate Link zu Schulengel"
 width=100em
-link="https://www.schulengel.de/einrichtungen/details/8023-foerderverein-axa-paenz-ev?utm_source=einrichtungsseite&utm_medium=spendenbanner&utm_campaign=spendenbanner122x240"
-
-> }}
+link="https://www.schulengel.de/einrichtungen/details/8023-foerderverein-axa-paenz-ev?utm_source=einrichtungsseite&utm_medium=spendenbanner&utm_campaign=spendenbanner122x240">}}
 
 Bei [Schulengel](https://www.schulengel.de/einrichtungen/details/8023-foerderverein-axa-paenz-ev?utm_source=einrichtungsseite&utm_medium=spendenbanner&utm_campaign=spendenbanner122x240) sind sehr viele Online-Shops vertreten, auch Anbieter
 von Kinderkleidung und Spielzeug, z.B. [ebay](https://www.schulengel.de/shoppen/shop-info/2-ebay), [myToys](https://www.schulengel.de/shoppen/shop-info/16-mytoysde), [JAKO-O](https://www.schulengel.de/shoppen/shop-info/25-jako-o) oder
