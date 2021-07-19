@@ -4,15 +4,15 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: weight
-  label: weight
-  config:
-    required: false
+  label: Titel
+  description: Titel der Seite
 - type: file
   name: featured_image
-  label: featured_image
+  label: Bild in Überschrift
 - type: text
-  name: type
-  label: type
+  name: weight
+  config:
+    required: false
+  label: Gewicht
+  description: Bestimmt die Reihenfolge der Seiten im Hauptmenü (siehe  <a href="https://gohugo.io/templates/lists/#by-weight)"
+    title="https://gohugo.io/templates/lists/#by-weight" target="_blank">https://gohugo.io/templates/lists/#by-weight</a>)
