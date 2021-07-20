@@ -5,21 +5,21 @@ featured_image: "/images/banner.jpg"
 menu:
   main:
     weight: 20
-
 ---
+
 # Warum den Förderverein unterstützen?
 
-* Unterstützung der Kinder
-* Newsletter für Mitglieder
-* Einladung zu Veranstaltungen
-* Steuerliche Absetzbarkeit von Mitgliedbeiträgen und Spenden
-* Schaffen einer Beziehung zwischen AXA Mitarbeitern und AXA Pänz
+- Unterstützung der Kinder
+- Newsletter für Mitglieder
+- Einladung zu Veranstaltungen
+- Steuerliche Absetzbarkeit von Mitgliedbeiträgen und Spenden
+- Schaffen einer Beziehung zwischen AXA Mitarbeitern und AXA Pänz
 
 # So können Sie uns unterstützen
 
-* [Mitgliedsbeitrag](/Beitrittserklaerung_Foerderverein_AXA-Paenz.pdf) (20 € Mindestbeitrag im Jahr) oder [einmalige Spende](/Beitrittserklaerung_Foerderverein_AXA-Paenz.pdf)
-* Teilnahme an unseren Aktionen, Sammlungen und Veranstaltungen
-* Weitere Möglichkeiten, z.B. Online-Shopping oder "Spenden statt Schenken!"
+- [Mitgliedsbeitrag](/Beitrittserklaerung_Foerderverein_AXA-Paenz.pdf) (20 € Mindestbeitrag im Jahr) oder [einmalige Spende](/Beitrittserklaerung_Foerderverein_AXA-Paenz.pdf)
+- Teilnahme an unseren Aktionen, Sammlungen und Veranstaltungen
+- Weitere Möglichkeiten, z.B. Online-Shopping oder "Spenden statt Schenken!"
 
 # Online-Shopping mit Partnerprogrammen
 
@@ -38,16 +38,11 @@ von Kinderkleidung und Spielzeug, z.B. [ebay](https://www.schulengel.de/shoppen/
 Ernsting’s family.
 Damit Sie keinen Partnershop „verpassen“, können Sie sich den ShopEngel einen virtuellen Erinnerungs-Sticker, installieren, der Sie an den
 Umweg über Schulengel erinnert.
-
-Bei Amazon gibt es eigentlich
-alles vom Autositz bis zur
-Zahndose – bestimmt auch das
-Passende für Ihre Familie!
-Setzen Sie sich am besten diesen
-Link auf Amazon als Favorit im
+{{< amazonWidget >}}
+Bei Amazon gibt es eigentlich alles vom Autositz bis zur Zahndose – bestimmt auch das Passende für Ihre Familie!
+Setzen Sie sich am besten diesen Link auf Amazon als Favorit im
 Browser, damit Sie den
-Förderverein mit Ihrem Einkauf
-immer unterstützen.
+Förderverein mit Ihrem Einkauf immer unterstützen.
 
 # Spenden statt Schenken!
 
