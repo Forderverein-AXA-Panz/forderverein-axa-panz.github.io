@@ -1,20 +1,18 @@
 baseURL = "https://test.fvap.de/"
 defaultContentLanguage = "de"
-languageCode = "de-DE"
+languageCode = "de-de"
 sectionPagesMenu = "main"
 theme = "ananke"
 title = "Förderverein AXA Pänz e.V."
-
 [params]
 background_color_class = "bg-light-blue"
 dateForm = "02.01.2006"
-featured_image = "/images/banner.jpg"
 description = "Internetauftritt des Förderverein AXA Pänz e.V."
 favicon = ""
+featured_image = "/images/banner.jpg"
 github = "https://test.fvap.de/admin"
 recent_posts_number = 2
 rss = ""
 site_logo = "/images/Logo_AXA_Paenz.jpg"
-
 [permalinks]
 neuigkeiten = "/:year/:month/:title/"
