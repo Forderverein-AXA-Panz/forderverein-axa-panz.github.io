@@ -16,3 +16,5 @@ fields:
   label: Gewicht
   description: Bestimmt die Reihenfolge der Seiten im Hauptmenü (siehe  <a href="https://gohugo.io/templates/lists/#by-weight)"
     title="https://gohugo.io/templates/lists/#by-weight" target="_blank">https://gohugo.io/templates/lists/#by-weight</a>)
+pages:
+- content/unterstützung.md

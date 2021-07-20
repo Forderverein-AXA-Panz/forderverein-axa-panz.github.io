@@ -2,6 +2,7 @@
 title: Unterstützung
 omit_header_text: true
 featured_image: "/images/banner.jpg"
+weight: ''
 menu:
   main:
     weight: 20
@@ -38,11 +39,10 @@ von Kinderkleidung und Spielzeug, z.B. [ebay](https://www.schulengel.de/shoppen/
 Ernsting’s family.
 Damit Sie keinen Partnershop „verpassen“, können Sie sich den ShopEngel einen virtuellen Erinnerungs-Sticker, installieren, der Sie an den
 Umweg über Schulengel erinnert.
+
 {{< amazonWidget >}}
-Bei [Amazon](http://www.amazon.de/?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&site-redirect=de&tag=foeaxapaeev0c-21) gibt es eigentlich alles vom Autositz bis zur Zahndose – bestimmt auch das Passende für Ihre Familie!
-Setzen Sie sich am besten [diesen Link auf Amazon als Favorit](http://www.amazon.de/?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&site-redirect=de&tag=foeaxapaeev0c-21) im
-Browser, damit Sie den
-Förderverein mit Ihrem Einkauf immer unterstützen.
+
+Bei [Amazon](http://www.amazon.de/?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&site-redirect=de&tag=foeaxapaeev0c-21) gibt es eigentlich alles vom Autositz bis zur Zahndose – bestimmt auch das Passende für Ihre Familie! Setzen Sie sich am besten [diesen Link auf Amazon als Favorit](http://www.amazon.de/?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&site-redirect=de&tag=foeaxapaeev0c-21) im Browser, damit Sie den Förderverein mit Ihrem Einkauf immer unterstützen.
 
 # Spenden statt Schenken!
 
