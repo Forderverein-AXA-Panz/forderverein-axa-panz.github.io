@@ -1,5 +1,5 @@
 ---
 title: Neuigkeiten
-featured_image: "/images/banner.jpg"
 weight: 15
+omit_header_text: true
 ---

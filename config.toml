@@ -4,23 +4,17 @@ languageCode = "de-DE"
 sectionPagesMenu = "main"
 theme = "ananke"
 title = "Förderverein AXA Pänz e.V."
+
 [params]
 background_color_class = "bg-light-blue"
 dateForm = "02.01.2006"
+featured_image = "/images/banner.jpg"
 description = "Internetauftritt des Förderverein AXA Pänz e.V."
-facebook = ""
 favicon = ""
-featured_image = "/images/Logo_AXA_Paenz.jpg"
 github = "https://test.fvap.de/admin"
-gitlab = ""
-instagram = ""
-linkedin = ""
-mastodon = ""
 recent_posts_number = 2
 rss = ""
 site_logo = "/images/Logo_AXA_Paenz.jpg"
-slack = ""
-stackoverflow = ""
-youtube = ""
+
 [permalinks]
 neuigkeiten = "/:year/:month/:title/"

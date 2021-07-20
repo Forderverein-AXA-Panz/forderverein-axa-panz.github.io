@@ -6,7 +6,12 @@
     {
       "label": "Start hugo dev server",
       "type": "shell",
-      "command": "hugo serve -D"
+      "command": "hugo serve -D",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
     }
   ]
 }

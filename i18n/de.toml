@@ -1,0 +1,5 @@
+[taxonomyPageList]
+other = "Unten finden Sie Seiten zum Stichwort “{{ .Title }}”"
+
+[authorBy]
+other = "Von"

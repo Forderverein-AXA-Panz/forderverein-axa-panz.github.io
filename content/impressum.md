@@ -1,7 +1,7 @@
 ---
 title: Impressum
+omit_header_text: true
 featured_image: "/images/banner.jpg"
-weight: "100"
 menu:
   main:
     weight: 40
