@@ -48,17 +48,7 @@ Link auf Amazon als Favorit im
 Browser, damit Sie den
 Förderverein mit Ihrem Einkauf
 immer unterstützen.
-Spenden statt Schenken!
-Oft besorgen wir für Freunde, Verwandte und Bekannte kurzfristig Geschenke, wie eine Flasche Wein oder
-Blumen und machen uns keine großen Gedanken darüber. Doch es geht auch anders, mit unserer Aktion
-„Spenden statt Schenken“ – ein Geschenk, das Sinn macht und hilft!
-Und so funktioniert es:
-Spenden Sie einfach den Betrag, der für Ihr Geschenk gedacht war, an den Förderverein AXA Pänz e.V.. Die
-von Ihnen beschenkte Person erhält von uns einen individuell gestalteten Dankesbrief und wird informiert,
-wer in ihrem Namen gespendet hat. Bitte geben Sie deshalb bei der Spende unbedingt den Namen und die
-Anschrift der zu beschenkenden Person an.
-Ihre Vorteile:
-Zeitaufwand für Geschenkauswahl, Verpackung und Versand entfällt
-Sinnvolle und nachhaltige Verwendung Ihrer Spende (auf Wunsch auch zweckgebunden)
-Steuermindernd durch unsere Spendenbescheinigung
-Die AXA Pänz danken Ihnen!
+
+# Spenden statt Schenken!
+
+Oft besorgen wir für Freunde, Verwandte und Bekannte kurzfristig Geschenke, wie eine Flasche Wein oder Blumen und machen uns keine großen Gedanken darüber. Doch es geht auch anders, mit unserer Aktion „Spenden statt Schenken“ – ein Geschenk, das Sinn macht und hilft! Und so funktioniert es: Spenden Sie einfach den Betrag, der für Ihr Geschenk gedacht war, an den Förderverein AXA Pänz e.V.. Die von Ihnen beschenkte Person erhält von uns einen individuell gestalteten Dankesbrief und wird informiert, wer in ihrem Namen gespendet hat. Bitte geben Sie deshalb bei der Spende unbedingt den Namen und die Anschrift der zu beschenkenden Person an. Ihre Vorteile: Zeitaufwand für Geschenkauswahl, Verpackung und Versand entfällt Sinnvolle und nachhaltige Verwendung Ihrer Spende (auf Wunsch auch zweckgebunden) Steuermindernd durch unsere Spendenbescheinigung Die AXA Pänz danken Ihnen!
