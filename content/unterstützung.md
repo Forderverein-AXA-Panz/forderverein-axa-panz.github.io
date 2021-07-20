@@ -37,7 +37,7 @@ link="https://www.schulengel.de/einrichtungen/details/8023-foerderverein-axa-pae
 Bei [Schulengel](https://www.schulengel.de/einrichtungen/details/8023-foerderverein-axa-paenz-ev) sind sehr viele Online-Shops vertreten, auch Anbieter
 von Kinderkleidung und Spielzeug, z.B. [ebay](https://www.schulengel.de/shoppen/shop-info/2-ebay), [myToys](https://www.schulengel.de/shoppen/shop-info/16-mytoysde), [JAKO-O](https://www.schulengel.de/shoppen/shop-info/25-jako-o) oder
 Ernsting’s family.
-Damit Sie keinen Partnershop „verpassen“, können Sie sich den ShopEngel einen virtuellen Erinnerungs-Sticker, installieren, der Sie an den
+Damit Sie keinen Partnershop „verpassen“, können Sie sich den [ShopEngel](https://www.schulengel.de/cms/entdecken/shop-engel/) einen virtuellen Erinnerungs-Sticker, installieren, der Sie an den
 Umweg über Schulengel erinnert.
 
 {{< amazonWidget >}}
@@ -46,4 +46,16 @@ Bei [Amazon](http://www.amazon.de/?_encoding=UTF8&camp=1638&creative=6742&linkCo
 
 # Spenden statt Schenken!
 
-Oft besorgen wir für Freunde, Verwandte und Bekannte kurzfristig Geschenke, wie eine Flasche Wein oder Blumen und machen uns keine großen Gedanken darüber. Doch es geht auch anders, mit unserer Aktion „Spenden statt Schenken“ – ein Geschenk, das Sinn macht und hilft! Und so funktioniert es: Spenden Sie einfach den Betrag, der für Ihr Geschenk gedacht war, an den Förderverein AXA Pänz e.V.. Die von Ihnen beschenkte Person erhält von uns einen individuell gestalteten Dankesbrief und wird informiert, wer in ihrem Namen gespendet hat. Bitte geben Sie deshalb bei der Spende unbedingt den Namen und die Anschrift der zu beschenkenden Person an. Ihre Vorteile: Zeitaufwand für Geschenkauswahl, Verpackung und Versand entfällt Sinnvolle und nachhaltige Verwendung Ihrer Spende (auf Wunsch auch zweckgebunden) Steuermindernd durch unsere Spendenbescheinigung Die AXA Pänz danken Ihnen!
+Oft besorgen wir für Freunde, Verwandte und Bekannte kurzfristig Geschenke, wie eine Flasche Wein oder Blumen und machen uns keine großen Gedanken darüber. Doch es geht auch anders, mit unserer Aktion „Spenden statt Schenken“ – ein Geschenk, das Sinn macht und hilft!
+
+## Und so funktioniert es
+
+Spenden Sie einfach den Betrag, der für Ihr Geschenk gedacht war, an den Förderverein AXA Pänz e.V.. Die von Ihnen beschenkte Person erhält von uns einen individuell gestalteten Dankesbrief und wird informiert, wer in ihrem Namen gespendet hat. Bitte geben Sie deshalb bei der Spende unbedingt den Namen und die Anschrift der zu beschenkenden Person an.
+
+## Ihre Vorteile
+
+* Zeitaufwand für Geschenkauswahl, Verpackung und Versand entfällt
+* Sinnvolle und nachhaltige Verwendung Ihrer Spende (auf Wunsch auch zweckgebunden)
+* Steuermindernd durch unsere Spendenbescheinigung
+
+Die AXA Pänz danken Ihnen!
