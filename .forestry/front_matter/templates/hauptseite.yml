@@ -9,12 +9,8 @@ fields:
 - type: file
   name: featured_image
   label: Bild in Überschrift
-- type: text
-  name: weight
-  config:
-    required: false
-  label: Gewicht
-  description: Bestimmt die Reihenfolge der Seiten im Hauptmenü (siehe  <a href="https://gohugo.io/templates/lists/#by-weight)"
-    title="https://gohugo.io/templates/lists/#by-weight" target="_blank">https://gohugo.io/templates/lists/#by-weight</a>)
+- name: omit_header_text
+  type: boolean
+  label: Kopftext ausblenden
 pages:
 - content/unterstützung.md
