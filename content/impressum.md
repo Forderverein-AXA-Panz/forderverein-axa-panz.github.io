@@ -7,7 +7,7 @@ menu:
     weight: 40
 ---
 
-## Förderverein AXA Pänz e.V.
+# Förderverein AXA Pänz e.V.
 
 Eintragung im Vereinsregister:
 
@@ -76,7 +76,7 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle
 der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
-Quelle: Impressum Generator der Kanzlei Hasselbach, Bonn
+Quelle: [Impressum Generator](https://www.impressum-generator.de/) der [Kanzlei Hasselbach, Bonn](https://www.kanzlei-hasselbach.de/standorte/bonn/)
 
 # Teilnahme an Affiliate-Partnerprogrammen
 
@@ -123,3 +123,5 @@ Weitere Informationen zur Datennutzung durch Amazon und Widerspruchsmöglichkeit
 
 Hinweis: Amazon und das Amazon-Logo sind Warenzeichen von Amazon.com, Inc. oder eines seiner
 verbundenen Unternehmen.
+
+[Quelle Partnerprogramm-Erklärung: RA Dr Thomas Schwenke](https://datenschutz-generator.de/)
