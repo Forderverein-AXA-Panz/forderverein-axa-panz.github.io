@@ -2,13 +2,12 @@
 title: Unterstützung
 omit_header_text: true
 featured_image: "/images/banner.jpg"
-weight: ''
 menu:
   main:
     weight: 20
 
 ---
-# Warum den Förderverein unterstützen?
+## Warum den Förderverein unterstützen?
 
 * Unterstützung der Kinder
 * Newsletter für Mitglieder
@@ -16,13 +15,13 @@ menu:
 * Steuerliche Absetzbarkeit von Mitgliedbeiträgen und Spenden
 * Schaffen einer Beziehung zwischen AXA Mitarbeitern und AXA Pänz
 
-# So können Sie uns unterstützen
+## So können Sie uns unterstützen
 
 * [Mitgliedsbeitrag](/Beitrittserklaerung_Foerderverein_AXA-Paenz.pdf) (20 € Mindestbeitrag im Jahr) oder [einmalige Spende](/Beitrittserklaerung_Foerderverein_AXA-Paenz.pdf)
 * Teilnahme an unseren Aktionen, Sammlungen und Veranstaltungen
 * Weitere Möglichkeiten, z.B. Online-Shopping oder "Spenden statt Schenken!"
 
-# Online-Shopping mit Partnerprogrammen
+## Online-Shopping mit Partnerprogrammen
 
 Wir haben unseren Förderverein bei verschiedenen Partner-Programmen angemeldet. Wenn Sie online
 einkaufen, klicken Sie doch einfach von unserer Seite aus auf Ihren Wunsch-Online-Shop. Der Förderverein
@@ -44,15 +43,15 @@ Umweg über Schulengel erinnert.
 
 Bei [Amazon](http://www.amazon.de/?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&site-redirect=de&tag=foeaxapaeev0c-21) gibt es eigentlich alles vom Autositz bis zur Zahndose – bestimmt auch das Passende für Ihre Familie! Setzen Sie sich am besten [diesen Link auf Amazon als Favorit](http://www.amazon.de/?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&site-redirect=de&tag=foeaxapaeev0c-21) im Browser, damit Sie den Förderverein mit Ihrem Einkauf immer unterstützen.
 
-# Spenden statt Schenken!
+## Spenden statt Schenken!
 
 Oft besorgen wir für Freunde, Verwandte und Bekannte kurzfristig Geschenke, wie eine Flasche Wein oder Blumen und machen uns keine großen Gedanken darüber. Doch es geht auch anders, mit unserer Aktion „Spenden statt Schenken“ – ein Geschenk, das Sinn macht und hilft!
 
-## Und so funktioniert es
+### Und so funktioniert es
 
 Spenden Sie einfach den Betrag, der für Ihr Geschenk gedacht war, an den Förderverein AXA Pänz e.V.. Die von Ihnen beschenkte Person erhält von uns einen individuell gestalteten Dankesbrief und wird informiert, wer in ihrem Namen gespendet hat. Bitte geben Sie deshalb bei der Spende unbedingt den Namen und die Anschrift der zu beschenkenden Person an.
 
-## Ihre Vorteile
+### Ihre Vorteile
 
 * Zeitaufwand für Geschenkauswahl, Verpackung und Versand entfällt
 * Sinnvolle und nachhaltige Verwendung Ihrer Spende (auf Wunsch auch zweckgebunden)

@@ -7,7 +7,7 @@ menu:
     weight: 40
 ---
 
-# Förderverein AXA Pänz e.V.
+## Förderverein AXA Pänz e.V.
 
 Eintragung im Vereinsregister:
 
@@ -16,7 +16,7 @@ Registerblatt VR 18573\
 eingetragen am 23.06.2015\
 info@FvAP.de
 
-## Vorstandsvorsitzende:
+### Vorstandsvorsitzende
 
 Maja Glück\
 Schweinheimer Straße 45\
@@ -24,11 +24,11 @@ Schweinheimer Straße 45\
 
 0221-96618834 (bitte per E-Mail melden, Angabe der Telefonnummer nur aus Impressums-Pflicht)
 
-# Rechtliche Hinweise / Datenschutz
+## Rechtliche Hinweise / Datenschutz
 
-## Haftungsausschluss:
+### Haftungsausschluss
 
-### Haftung für Inhalte
+#### Haftung für Inhalte
 
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und
 Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7
@@ -40,7 +40,7 @@ allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung is
 Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden
 Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-### Haftung für Links
+#### Haftung für Links
 
 Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben.
 Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten
@@ -50,7 +50,7 @@ Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle 
 jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von
 Rechtsverletzungen werden wir derartige Links umgehend entfernen.
 
-### Urheberrecht
+#### Urheberrecht
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen
 Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der
@@ -61,7 +61,7 @@ beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten
 Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei
 Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-### Datenschutz
+#### Datenschutz
 
 Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf
 unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben
@@ -78,10 +78,9 @@ der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
 Quelle: [Impressum Generator](https://www.impressum-generator.de/) der [Kanzlei Hasselbach, Bonn](https://www.kanzlei-hasselbach.de/standorte/bonn/)
 
-# Teilnahme an Affiliate-Partnerprogrammen
+## Teilnahme an Affiliate-Partnerprogrammen
 
-Innerhalb unseres Onlineangebotes setzen wir auf Grundlage unserer berechtigten Interessen (d.h. Interesse
-an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes) gem. Art. 6 Abs. 1 lit. f
+Innerhalb unseres Onlineangebotes setzen wir auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes) gem. Art. 6 Abs. 1 lit. f
 DSGVO branchenübliche Trackingmaßnahmen ein, soweit diese für den Betrieb des Affiliatesystems
 erforderlich sind. Nachfolgend klären wir die Nutzer über die technischen Hintergründe auf.
 
@@ -107,7 +106,7 @@ Partnerunternehmen und auch uns, die Online-Kennung zusammen mit anderen Nutzerd
 so kann das Partnerunternehmen uns mitteilen, ob derjenige Nutzer das Angebot wahrgenommen hat und wir
 z.B. den Bonus auszahlen können.
 
-# Amazon-Partnerprogramm
+## Amazon-Partnerprogramm
 
 Wir sind auf Grundlage unserer berechtigten Interessen (d.h. Interesse am wirtschaftlichem Betrieb unseres
 Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Teilnehmer des Partnerprogramms von Amazon

@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-## Herzlich Willkommen!
+## Herzlich Willkommen
 
 Schön, dass Sie sich für den Förderverein AXA Pänz e.V. interessieren!
 
