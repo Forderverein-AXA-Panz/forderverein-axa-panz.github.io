@@ -3,8 +3,8 @@ author = "Chrstin Clodius"
 date = 2021-07-27T22:00:00Z
 draft = true
 featured_image = ""
-tags = []
-title = "Newsletter"
+tags = ["newsletter"]
+title = "Newsletter Juli"
 
 +++
 # NEWSLETTER DES FÖRDERVEREINS AXA PÄNZ e.V.
@@ -40,4 +40,3 @@ Mitglied kann jeder werden – nicht nur die Eltern der AXA Pänz! Oma, Opa, Pat
 ## MIT JEDEM EINKAUF GUTES TUN
 
 Den Förderverein der AXA Pänz könnt ihr nicht nur über eine Mitgliedschaft unterstützen, sondern auch bei jedem Einkauf über Amazon oder Schulengel: Wenn ihr bei Onlinekäufen über den jeweiligen Link geht, erhält der Förderverein automatisch eine Provision. Für euch eine einfache und kostenfreie Möglichkeit, mit jedem Einkauf die AXA Pänz zu unterstützen!
-
