@@ -1,6 +1,6 @@
 ---
 label: Artikel
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: title
