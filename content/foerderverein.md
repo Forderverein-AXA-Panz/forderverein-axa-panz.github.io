@@ -34,6 +34,6 @@ Kindersicherheit.
 
 **Schatzmeister**: Tobias Bell
 
-**Schriftführerin**: Christin Clodius
+**Schriftführerin**: Adelle Hollot
 
 Kontaktieren Sie uns gerne unter info@FvAP.de!
